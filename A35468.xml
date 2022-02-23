@@ -1,0 +1,892 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A curious collection of paintings, most whereof are originals, by the best masters; and the rest very fine copies. Will be exposed to sale by way of auction, on Thursday, the 4th of this instant September, at the Marine Coffee-House, in Birching-lane, near the Royal-Exchange. By J. Bullord. Catalogues are distributed gratis, at Mr. Hensmans in Westminster-Hall: Mr. Notts in the Pall Mall: Mr. Ropers, near the Devil-Tavern in Fleetstreet; Mr. Hargraves, at the Kings-Head, in Holbourn: Mr. Bullords, in St. Paul's Church-yard: Mr. Richard Parkers, at the Unicorn on the Piazza, at the Royal-Exchange; and at the place of sale</title>
+            <author>Bullord, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35468</idno>
+            <idno type="STC">Wing C7645</idno>
+            <idno type="STC">ESTC R214385</idno>
+            <idno type="EEBO-CITATION">99826564</idno>
+            <idno type="PROQUEST">99826564</idno>
+            <idno type="VID">30967</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35468)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30967)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1828:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A curious collection of paintings, most whereof are originals, by the best masters; and the rest very fine copies. Will be exposed to sale by way of auction, on Thursday, the 4th of this instant September, at the Marine Coffee-House, in Birching-lane, near the Royal-Exchange. By J. Bullord. Catalogues are distributed gratis, at Mr. Hensmans in Westminster-Hall: Mr. Notts in the Pall Mall: Mr. Ropers, near the Devil-Tavern in Fleetstreet; Mr. Hargraves, at the Kings-Head, in Holbourn: Mr. Bullords, in St. Paul's Church-yard: Mr. Richard Parkers, at the Unicorn on the Piazza, at the Royal-Exchange; and at the place of sale</title>
+                  <author>Bullord, John.</author>
+               </titleStmt>
+               <extent>[2], 6, 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>"A continuation of the auction of paintings, at the Marine Coffee-House in Birchin-Lane, will be sold on Thursday, the 11th of this instant September, at three of the clock in the afternoon" (caption title) has separate pagination; register is continuous.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Art auctions --  England --  London --  Early works to 1800.</term>
+               <term>Art --  England --  Catalogs --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30967:1"/>
+            <pb facs="tcp:30967:1" rendition="simple:additions"/>
+            <p>A Curious COLLECTION OF PAINTINGS, Moſt whereof are ORIGINALS, by the beſt Maſters; and the reſt very fine Copies. Will be Expoſed to Sale by way of Auction, on <hi>Thurſday,</hi> the 4th of this inſtant <hi>September,</hi> at the <hi>Marine</hi> Coffee-Houſe, in <hi>Birching-lane,</hi> near the <hi>Royal-Exchange.</hi>
+            </p>
+            <p>By <hi>J. Bullord.</hi>
+            </p>
+            <p>Catalogues are Diſtributed <hi>Gratis,</hi> at Mr. <hi>Henſmans</hi> in <hi>Weſtminſter-Hall:</hi> Mr. <hi>Notts</hi> in the <hi>Pall Mall:</hi> Mr. <hi>Ropers,</hi> near the Devil-Tavern in <hi>Fleetſtreet:</hi> Mr. <hi>Hargraves,</hi> at the King-Head, in <hi>Holbourn:</hi> Mr. <hi>Bullords,</hi> in St. <hi>Paul's</hi> Church-yard: Mr. <hi>Richard Parkers,</hi> at the Unicorn on the <hi>Piazza,</hi> at the <hi>Royal-Exchange;</hi> and at the Place of Sale.</p>
+         </div>
+         <div type="conditions_of_sale">
+            <pb facs="tcp:30967:2"/>
+            <head>Conditions of SALE.</head>
+            <list>
+               <item>
+                  <hi>I.</hi> THat he who bids moſt is the Buyer, and if any Difference ariſe which the Company can<g ref="char:EOLhyphen"/>not Decide, then the Painting, <hi>&amp;c.</hi> ſhall be Expoſed to Sale again.</item>
+               <item>
+                  <hi>II.</hi> That the Money for the Paintings, <hi>&amp;c.</hi> ſo bought, is to be paid at the place of Sale within three Days after the Sale is ended, but for the Conveniency of ſuch as de<g ref="char:EOLhyphen"/>ſire them ſooner, conſtant Attendance for delivery will be given every Day at the ſaid Place.</item>
+               <item>
+                  <hi>III.</hi> That all Gentlemen, Ladies, <hi>&amp;c.</hi> after the buying any Painting, will be pleaſed to give in their Names and Lodgings, at the Sale, otherwiſe to pay the third part of the Price, or the whole Money preſent<g ref="char:EOLhyphen"/>ly for them, where upon payment of the remainder within the time limited, the Paintings, Limnings, <hi>&amp;c.</hi> ſhall be delivered to them or their Order.</item>
+               <item>
+                  <hi>IV.</hi> That no Perſon is to bid leſs than ſix pence a time, for any Lott expoſed to Sale.</item>
+               <item>
+                  <hi>V.</hi> That the Paintings, <hi>&amp;c.</hi> may be viewed every Morning, before the Afternoon Sale, by any Perſons that pleaſe to repair to the place of Sale.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="list_of_paintings">
+            <pb n="1" facs="tcp:30967:2"/>
+            <head>PAINTINGS.</head>
+            <list>
+               <item>1 A Flower-piece</item>
+               <item>2 a Fruit-piece</item>
+               <item>3 a ſmall Landskip, in an Ebony Frame</item>
+               <item>4 a Deer-hunting</item>
+               <item>5 Old <hi>Simon</hi> the King</item>
+               <item>6 A Landskip</item>
+               <item>7 A whole length Poſture, well painted</item>
+               <item>8 King <hi>Charles</hi> the Second, and his Queen</item>
+               <item>9 A Satyr and a Traveler</item>
+               <item>10 A Lady and Child, curiouſly painted</item>
+               <item>11 <hi>Cain</hi> and <hi>Abel,</hi> by a Dutch maſter</item>
+               <item>12 A Ruine with a Waterfall</item>
+               <item>13 Three Tobacco-ſmoakers</item>
+               <item>14 An Uſurer and his VVife weighing Gold</item>
+               <item>15 A pleaſant Landskip</item>
+               <item>16 a VVoman a Piping</item>
+               <item>17 a large piece of <hi>Lot</hi> and his Daughters, by a good maſter</item>
+               <item>18 a large Landskip, by a Dutch maſter</item>
+               <item>19 a large piece of <hi>Moſes,</hi> by a good hand</item>
+               <item>20 King <hi>Charles</hi> the Second after <hi>Lilly</hi>
+               </item>
+               <item>21 The Duke of <hi>York,</hi> by the ſame hand</item>
+               <item>22 a Sea-piece after <hi>Caſtro</hi>
+               </item>
+               <item>23 a Fruit-piece</item>
+               <item>24 a Landskip, by a Dutch maſter</item>
+               <item>25 a piece of Dogs well painted</item>
+               <item>26 a ſtring of Fruit</item>
+               <item>27 <hi>Venus</hi> aſleep, on copper</item>
+               <item>28 Love Conquering Nature, on copper</item>
+               <item>29 a Flower-piece</item>
+               <item>30 K. <hi>William</hi> and Q. <hi>Mary</hi> on copper, with carved frames</item>
+               <item>31 a Landskip, by <hi>Van Ulieghen</hi>
+               </item>
+               <item>32 a Droll-piece on copper, by <hi>Haemskirk</hi>
+               </item>
+               <item>33 —another, Ditto</item>
+               <item>34 a Fruit-piece, on copper</item>
+               <item>35 K. <hi>William</hi> and Q. <hi>Mary,</hi> in carv'd Oval frames</item>
+               <item>36 a Painting of a VVainſcot Cupboard</item>
+               <item>37 a piece of Books, curionſly painted by <hi>Van Hatton</hi>
+               </item>
+               <item>38 King <hi>Charles</hi> the Second in Miniature</item>
+               <item>39 an Amorous piece well painted, by a Dutch maſter</item>
+               <item>40 a neat Landskip, with a large building</item>
+               <item>41 a head finely painted by <hi>Cornelius Johnſon</hi>
+               </item>
+               <item>42 King <hi>Charles</hi> the Firſt on Horſeback, after <hi>Van Dyck</hi>
+               </item>
+               <item>43 a piece of Mackerel and Sparagus</item>
+               <item>44 The Queen of <hi>Bohemia</hi>'s head, on board, by <hi>Johnſon</hi>
+               </item>
+               <item>45 a ſmall Landskip, by a Dutch maſter</item>
+               <item>46 a Droll-piece after <hi>Oſtade</hi>
+               </item>
+               <item>47 a laughing boys head, by <hi>Fran. Halls</hi>
+               </item>
+               <item>48 a Droll-piece, and Original, finely painted</item>
+               <item>
+                  <pb n="2" facs="tcp:30967:3"/>
+49 <hi>Venus</hi> and <hi>Adonis,</hi> finely painted by <hi>Edema</hi>
+               </item>
+               <item>50 an Original flower-piece, by <hi>Lazuliere</hi>
+               </item>
+               <item>51 a piece of Fiſh, finely painted by <hi>Robinſon</hi>
+               </item>
+               <item>52 a Thiſtle, curiouſly painted by <hi>De Keyzer</hi>
+               </item>
+               <item>53 a Sea-piece, in an Ebony Oval frame, by <hi>Antonius</hi>
+               </item>
+               <item>54 a Landskip, curiouſly painted by <hi>Knife</hi>
+               </item>
+               <item>55 a Flower-pot in an Ebony frame, by <hi>Boulenger</hi>
+               </item>
+               <item>56 Two Lions, after <hi>Rubens</hi>
+               </item>
+               <item>57 a Man ſmoaking, by Old <hi>Haemskirk</hi>
+               </item>
+               <item>58 Queen <hi>Mary</hi> in an Oval carved frame</item>
+               <item>59 a Fruit-piece</item>
+               <item>60 a Bunch of Grapes, an Original, by <hi>Verelst</hi>
+               </item>
+               <item>61 King <hi>William</hi> on Horſeback</item>
+               <item>62 a Landskip, by a Dutch maſter</item>
+               <item>63 a large <hi>Cleopatra,</hi> by an Italian</item>
+               <item>64 a Winter-piece, curiouſly painted</item>
+               <item>65 King <hi>Charles</hi> the Second in an Oval frnme</item>
+               <item>66 Queen <hi>Katherine</hi> by the ſame hand</item>
+               <item>67 a proſpect of <hi>Plimouth,</hi> finely painted by <hi>Sailmaker</hi>
+               </item>
+               <item>68 a Sea-ſtorm by the ſame hand</item>
+               <item>69 <hi>Jane Shore</hi> neatly painted</item>
+               <item>70 a Landskip curiouſly painted by <hi>Ulieghen</hi>
+               </item>
+               <item>71 an Orig. piece of the life, with a book, <hi>&amp;c.</hi> in a rich frame</item>
+               <item>72 a Droll-piece by a Dutch maſter</item>
+               <item>73 a Woman playing on a Violin, an Original, by Old <hi>Boon</hi>
+               </item>
+               <item>74 K. <hi>Edward</hi> VI. curiouſly painted by a great maſter</item>
+               <item>75 a Dead Child well painted</item>
+               <item>76 K. <hi>William</hi> and Q <hi>Mary,</hi> in rich gilt frames</item>
+               <item>77 King <hi>William</hi> in an Oval frame, by a Dutch maſter</item>
+               <item>78 a Card-playing, by <hi>Haemskirk</hi>
+               </item>
+               <item>79 The Lord <hi>Devonſhire,</hi> well painted by a Dutch maſter</item>
+               <item>80 a Houſe of Converſation, by <hi>Haemskirk</hi>
+               </item>
+               <item>81 The Offering of the three Kings, by an Italian maſter</item>
+               <item>82 Two Drunkards, by <hi>Haemskirk</hi>
+               </item>
+               <item>83 <hi>Sampſon</hi> and <hi>Dalilah</hi> after <hi>Rubens</hi>
+               </item>
+               <item>84 a neat Landskip with a Bridge</item>
+               <item>85 a large Landskip with <hi>Venus</hi> and a Satyr, by a Dutch maſter</item>
+               <item>86 a naked <hi>Venus,</hi> finely painted</item>
+               <item>87 a neat Landskip with a River</item>
+               <item>88 a Froſt-piece with ſliders, by a Dutch maſter</item>
+               <item>89 a ſmall Landskip well painted</item>
+               <item>90 a half length, ſuppos'd by <hi>Boemaert</hi>
+               </item>
+               <item>91 <hi>David</hi> and <hi>Abigal,</hi> by a <hi>Dutch</hi> maſter</item>
+               <item>92 a piece of Clowns, well painted by <hi>Oſtade</hi>
+               </item>
+               <item>93 a large Flower-piece, by <hi>Montingo</hi>
+               </item>
+               <item>94 a neat Landskip with Hunting the Ounce</item>
+               <item>95 a ſmall Landskip on copper, by <hi>Parelle</hi>
+               </item>
+               <item>96 <hi>Venus</hi> kiſſing <hi>Cupid,</hi> on copper, by <hi>Van Heyden</hi>
+               </item>
+               <item>97 <hi>Venus</hi> Whipping <hi>Cupid,</hi> by Ditto</item>
+               <item>98 a Pomona</item>
+               <item>
+                  <pb n="3" facs="tcp:30967:3"/>
+99 a large Droll by <hi>Haemskirk</hi>
+               </item>
+               <item>100 a Ballad-ſinger</item>
+               <item>101 a Sea-piece by <hi>Vande Velde</hi>
+               </item>
+               <item>102 a little Lanskip by a Dutch maſter</item>
+               <item>103 a Parteridge Hanging, by a Dutch maſter</item>
+               <item>104 a Gun-powder Plot, after <hi>Haemekirk</hi>
+               </item>
+               <item>105 a ſmall Landskip, well painted</item>
+               <item>106 a Sea-piece, by <hi>Vande Velde</hi>
+               </item>
+               <item>107 <hi>Maſſianello</hi> after <hi>Haemskirk</hi>
+               </item>
+               <item>108 <hi>Suſanna</hi> well painted</item>
+               <item>109 a Madona, in little</item>
+               <item>110 Dr. <hi>Saffold</hi>'s Picture</item>
+               <item>111 a piece of Horſemen</item>
+               <item>112 a Landskip by <hi>Ulieghen</hi>
+               </item>
+               <item>113 Mr. <hi>Wards</hi> Head well painted</item>
+               <item>114 a Partridge by a good maſter</item>
+               <item>115 a half length after the life, by a great maſter</item>
+               <item>116 a ſmall piece after <hi>Haemskirk</hi>
+               </item>
+               <item>117 a half length after <hi>Van Dyck</hi>
+               </item>
+               <item>118 a large Landskip by <hi>Lootten</hi>
+               </item>
+               <item>119 <hi>Cleopatra</hi> neatly painted</item>
+               <item>120 a Fruit-piece curiouſly done by <hi>Varelſt</hi>
+               </item>
+               <item>121 a Winter-piece, by <hi>Van Acha</hi>
+               </item>
+               <item>122 a large piece of <hi>Venus</hi> and a Satyr, by an Italian</item>
+               <item>123 a Feſtoon of Fruit, by <hi>Bougdan</hi>
+               </item>
+               <item>124 a Feſtoon of Flowers by Ditto</item>
+               <item>125 an Uſurer weighing Gold, finely painted</item>
+               <item>126 an Original Sea-piece, by <hi>Caſtro</hi>
+               </item>
+               <item>127 <hi>Conſtantine</hi> the firſt Chriſtian Emperour, after <hi>Titian,</hi> in a carv'd frame</item>
+               <item>128 a curious Landskip with Beaſts</item>
+               <item>129 a Houſe of Converſation, curiouſly painted, by a great maſter</item>
+               <item>130 a ſmall Landskip with a Building</item>
+               <item>131 an Original of <hi>Neptune</hi>
+               </item>
+               <item>132 a Shepherd and Shepherdeſs, after <hi>Titian</hi>
+               </item>
+               <item>133 King <hi>William</hi> in a rich frame</item>
+               <item>134 Queen <hi>Mary</hi> by the ſame hand</item>
+               <item>135 King <hi>Charles</hi> the firſt after <hi>Van Dyck</hi>
+               </item>
+               <item>136 a Droll after <hi>Oſtade</hi>
+               </item>
+               <item>137 a Palace curiouſly painted</item>
+               <item>138 The Offering of the 3 Kings, in black and white, by <hi>Blomaert</hi>
+               </item>
+               <item>139 <hi>Abraham</hi> Sacrificing <hi>Iſaac</hi>
+               </item>
+               <item>140 <hi>Diana</hi> curiouſly painted</item>
+               <item>141 <hi>Venus</hi> and <hi>Adonis,</hi> by an Italian</item>
+               <item>142 a Cupboard of Plate and Jewels, by <hi>Frank</hi>
+               </item>
+               <item>143 a piece of Ruines, curiouſly painted by <hi>Griffiere</hi>
+               </item>
+               <item>144 a ſmall piece after <hi>Haemskirk</hi>
+               </item>
+               <item>145 a half length of Mr. <hi>Ruſtick,</hi> after the life, by a good maſter</item>
+               <item>146 an Old mans head</item>
+               <item>147 <hi>Mary Magdalen,</hi> by an Italian maſter</item>
+               <item>148 a half length after the life, by a good maſter</item>
+               <item>
+                  <pb n="4" facs="tcp:30967:4"/>
+149 Old <hi>Boon</hi> the Painter, with a Roaſt Pullet</item>
+               <item>150 a Battel-piece, by a Dutch maſter</item>
+               <item>151 <hi>Venus</hi> and <hi>Cupid</hi> in the Clouds, on copper, by <hi>Van Heyden</hi>
+               </item>
+               <item>152 <hi>Judith</hi> and <hi>Holofernes,</hi> by Ditto</item>
+               <item>153 a large Hunting piece, by an Italian</item>
+               <item>154 a large Ecce Homo, by a great maſter</item>
+               <item>155 a large Sea Calm, an Original, by a very great maſter</item>
+               <item>156 a Sea-ſtorm finely drawn, in a rich carv'd frame</item>
+               <item>157 an imitation of a Deal-board, with a Calves-pluck</item>
+               <item>158 a piece of Leopards and Peacocks, by <hi>Snyder</hi>
+               </item>
+               <item>159 an Original piece of Cattle, by <hi>Mummers</hi>
+               </item>
+               <item>160 The laſt Supper, finely painted by a great maſter</item>
+               <item>161 a Bear hunting, an Original, by <hi>Hondius</hi>
+               </item>
+               <item>162 an Italian Landskip, curiouſly painted</item>
+               <item>163 a Sea-piece, by a Dutch maſter</item>
+               <item>164 a Hunting-piece, an Original, by <hi>Hondius</hi>
+               </item>
+               <item>165 an Amorous piece, by <hi>Haemskirk</hi>
+               </item>
+               <item>166 a ſmall Landskip, nearly painted by a Dutch maſter</item>
+               <item>167 A piece of Vanity after <hi>Walton</hi>
+               </item>
+               <item>168 Sir <hi>Francis Drake</hi>
+               </item>
+               <item>169 The Prodigal Son, by a Italian</item>
+               <item>170 <hi>Porſias</hi> Head</item>
+               <item>171 Beaſts after <hi>Van Berkham</hi>
+               </item>
+               <item>172 King <hi>William</hi> and Queen <hi>Mary</hi>
+               </item>
+               <item>173 The Virgin <hi>Mary</hi> at her Needle</item>
+               <item>174 The Lord <hi>De-la-More</hi>
+               </item>
+               <item>175 A head by the life</item>
+               <item>176 A Landskip after <hi>Van Berkham</hi>
+               </item>
+               <item>177 A Blackamoor with froth</item>
+               <item>178 A large Sea-piece</item>
+               <item>179 a ſmall Landskip on Coper by <hi>Parelle</hi>
+               </item>
+               <item>180 Sports of <hi>Bacbhus</hi> on copper by <hi>Van Heyden</hi>
+               </item>
+               <item>181 a Madona by an <hi>Italian</hi>
+               </item>
+               <item>182 <hi>Piramus</hi> and <hi>Thysbe</hi> by a good maſter</item>
+               <item>183 a large piece of the Angel and <hi>Hagar</hi>
+               </item>
+               <item>184 A large Kitchin piece</item>
+               <item>185 <hi>Paris</hi> and the 3 Goddeſſes with the Golden Appel, by <hi>F. Flores</hi>
+               </item>
+               <item>186 a large proſpect of St. <hi>James</hi>'s, with the <hi>Park,</hi> by a great maſt.</item>
+               <item>187 a large <hi>Italian</hi> Landskip with a Ruin the figures by <hi>Griffiere</hi>
+               </item>
+               <item>188 The VViſe and Fooliſh Virgins by an <hi>Italian</hi>
+               </item>
+               <item>189 a large Landskip with a Shepherd and Shepherdeſs</item>
+               <item>190 a half length Landskip by <hi>Edema</hi>
+               </item>
+               <item>191 King <hi>William</hi> in an Oval Carv'd Frame</item>
+               <item>192 Queen <hi>Mary</hi> in an Oval Carv'd Frame</item>
+               <item>193 an Amorous piece by <hi>Haemskirk</hi>
+               </item>
+               <item>194 St. <hi>Anthonys</hi> Dream by old <hi>Haemskirk</hi>
+               </item>
+               <item>195 a curious Landskip, ſit for a Chimney piece</item>
+               <item>196 <hi>Seghers</hi> the Painters Head, by <hi>Van Dyke</hi>
+               </item>
+               <item>197 an <hi>Ecce Homo</hi> after <hi>Van Dyke</hi>
+               </item>
+               <item>198 a neat Landskip with a Ruin</item>
+               <item>
+                  <pb n="5" facs="tcp:30967:4"/>
+199 a Cobler and his VVife</item>
+               <item>200 a Sea piece by a <hi>Dutch</hi> maſter</item>
+               <item>201 a ſmall Landskip by a <hi>Dutch</hi> maſter</item>
+               <item>202 a Landskip well painted</item>
+               <item>203 a Droll piece by a <hi>Dutch</hi> maſter</item>
+               <item>204 a curious drawing of a Sea Port in <hi>Holland</hi>
+               </item>
+               <item>205 <hi>Cupid</hi> finely painted</item>
+               <item>206 The Lady <hi>Newport</hi>
+               </item>
+               <item>207 a Landskip by <hi>Uliegher</hi>
+               </item>
+               <item>208 a VVinter piece by <hi>Breughel</hi>
+               </item>
+               <item>209 a <hi>Italian</hi> Chirurgeon dreſſing a Patient</item>
+               <item>210 a Boy and Fruit by a Diſciple of <hi>Clyne</hi>
+               </item>
+               <item>211 a large Fire piece curiouſly painted</item>
+               <item>212 a large piece of <hi>Mars</hi> and <hi>Venus</hi> after <hi>Titian</hi>
+               </item>
+               <item>213 a ſmall piece of <hi>Moſes</hi> by <hi>De Ryck</hi>
+               </item>
+               <item>214 a Fruit piece finely painted</item>
+               <item>215 a ſmall VVinter piece</item>
+               <item>216 <hi>Pandora</hi>'s Head</item>
+               <item>217 a Flower piece painted by <hi>Montingo</hi>
+               </item>
+               <item>218 a Sea piece, an Original by <hi>Porcellus</hi>
+               </item>
+               <item>219 a Fruit piece finely painted</item>
+               <item>220 King <hi>William</hi> and Queen <hi>Mary</hi>
+               </item>
+               <item>221 a Droll piece after <hi>Teniers</hi>
+               </item>
+               <item>222 a VVinter piece finely painted</item>
+               <item>223 a Landskip finely painted by an <hi>Italian</hi>
+               </item>
+               <item>224 The Spring by an <hi>Italian</hi>
+               </item>
+               <item>225 <hi>Autumn</hi> by the ſame hand</item>
+               <item>226 a Landskip with a waterfal by an <hi>Italian</hi>
+               </item>
+               <item>227 <hi>Joſeph</hi> and his Miſtriſs by <hi>Van Aka</hi>
+               </item>
+               <item>228 a Mathematical ſtudy well painted</item>
+               <item>229 Lord <hi>Straffords</hi> Head after <hi>Van Dyck</hi>
+               </item>
+               <item>230 St. <hi>Katherine</hi>
+               </item>
+               <item>231 a large Sea piece of <hi>Peters</hi>
+               </item>
+               <item>232 K. <hi>Charles</hi> the 1ſt on Horſe back after <hi>Van Dyck</hi>
+               </item>
+               <item>233 an Orginal piece of Cattle by a great Maſter</item>
+               <item>234 a Ruin after <hi>Griffier</hi>
+               </item>
+               <item>235 <hi>Lot</hi> and his two Daughters on Copper by <hi>Lauder</hi>
+               </item>
+               <item>236 Painting Architecture and Aſtronomy by <hi>Ditto</hi>
+               </item>
+               <item>237 a Landskip by a <hi>Dutch</hi> maſter</item>
+               <item>238 a painting of <hi>Circe,</hi> an Original, by <hi>Van Aka</hi>
+               </item>
+               <item>239 an Original piece of <hi>Colonie</hi>
+               </item>
+               <item>240 an Original piece by old <hi>Haemskirk</hi>
+               </item>
+               <item>241 a Flower piece by <hi>Montingo</hi>
+               </item>
+               <item>242 a VVater-fall by <hi>De Reyner</hi>
+               </item>
+               <item>243 <hi>Cleopatra</hi> by an <hi>Italian</hi>
+               </item>
+               <item>244 <hi>Pandora</hi> by an Italian</item>
+               <item>245 a piece of Smoakers, by <hi>Haemskirk</hi>
+               </item>
+               <item>246 a piece of Drunkards, by the ſame hand</item>
+               <item>247 a large Kitchin piece well painted</item>
+               <item>248 a piece of Bull-baiting by <hi>Hondius</hi> in a rich carv'd frame</item>
+               <item>
+                  <pb n="6" facs="tcp:30967:5"/>
+249 an Original Landskip by <hi>Chriſtian</hi>
+               </item>
+               <item>250 a large <hi>Italian</hi> Landskip of Hunting</item>
+               <item>251 K. <hi>William</hi> on Horſeback by <hi>Hondius</hi>
+               </item>
+               <item>252 The Duke of <hi>Monmouth</hi> in a rich carv'd frame</item>
+               <item>253 <hi>Lucretia</hi> by <hi>La Mence</hi>
+               </item>
+               <item>254 a Droll piece by a <hi>Dutch</hi> maſter</item>
+               <item>355 a Flower piece by <hi>Bougdan</hi>
+               </item>
+               <item>256 <hi>Venus</hi> and <hi>Cupid</hi> by <hi>Varelſt</hi>
+               </item>
+               <item>257 a Landskip by a <hi>Dutch</hi> maſter</item>
+               <item>258 a Landskip finely painted, by a good maſter</item>
+               <item>259 <hi>Alpheus</hi> and <hi>Arethuſa,</hi> by <hi>Edema</hi>
+               </item>
+               <item>260 a piece of Flowers by <hi>Teniers</hi>
+               </item>
+               <item>261 a large piece of <hi>Flora</hi> finely painted</item>
+               <item>262 Storming a Fort by the <hi>Venetians</hi>
+               </item>
+               <item>263 a Drawing piece by <hi>Vander Velder</hi>
+               </item>
+               <item>264 a Man with an Oyſter by old <hi>Boon</hi>
+               </item>
+               <item>265 The Tryumphs of <hi>Caeſar</hi> by old <hi>Fuller</hi>
+               </item>
+               <item>269 a piece of Boys by <hi>Cook</hi>
+               </item>
+               <item>267 a curious <hi>Italian</hi> Landskip in an <hi>Ebony</hi> frame</item>
+               <item>268 an Emblem of Truth and falſhood on copper by <hi>Lauder</hi>
+               </item>
+               <item>266 <hi>Jupiter</hi> and <hi>Pomona</hi> on copper</item>
+               <item>270 <hi>Cleopatra</hi> on copper</item>
+               <item>271 The Three Wiſe Siſters on copper by <hi>Van Heyden</hi>
+               </item>
+               <item>272 <hi>Bacchus</hi> and <hi>Ariadne,</hi> by <hi>Van Aka</hi>
+               </item>
+               <item>273 <hi>Neptune</hi> and <hi>Coronis,</hi> Ditto</item>
+               <item>274 a Sea Piece by <hi>Porcellus</hi>
+               </item>
+               <item>275 a ſmall Landskip by <hi>Van Dieſt</hi>
+               </item>
+               <item>276 another <hi>Ditto</hi>
+               </item>
+               <item>277 a large Converſation piece well painted</item>
+               <item>278 <hi>Cleopatra</hi> Dying on copper by <hi>Lauder</hi>
+               </item>
+               <item>279 <hi>Venus</hi> ond a Satyr on copper by <hi>Van Heyden</hi>
+               </item>
+               <item>280 a <hi>Silneus</hi> by <hi>Van Aka</hi>
+               </item>
+               <item>281 <hi>Venus</hi> in the Cloud finely painted</item>
+               <item>282 A piece of Nymphs finely painted by a great maſter</item>
+               <item>283 Charity finely painted by an <hi>Italian</hi>
+               </item>
+               <item>284 a Flower-piece, by <hi>Montingo</hi>
+               </item>
+               <item>285 Fortune on the Sea, painted by <hi>Lemence</hi>
+               </item>
+               <item>286 <hi>Neptune</hi> painted by the ſame hand</item>
+               <item>287 A Fruit-piece by <hi>Varelſt</hi>
+               </item>
+               <item>288 a curious Landskip with a Water fall by an <hi>Italian</hi>
+               </item>
+               <item>289 <hi>Lott</hi> and his two Daughters</item>
+               <item>290 <hi>Apollo</hi> and <hi>Daphne</hi> by <hi>Van Aka</hi>
+               </item>
+               <item>291 A Madona finely painted by a great maſter</item>
+               <item>292 <hi>Pan</hi> and <hi>Cirinx</hi> by <hi>Van Acha</hi>
+               </item>
+               <item>293 A night piece an original by <hi>Vander Pool</hi>
+               </item>
+               <item>294 A <hi>Mary Magdalen</hi> finely painted</item>
+               <item>295 a Piece of Beaſts by <hi>Van Berkham</hi>
+               </item>
+               <item>296 a large Droll piece by a Dutch maſter</item>
+               <item>297 an Ox Head after <hi>Rubens</hi>
+               </item>
+               <item>298 a piece of flowers</item>
+            </list>
+         </div>
+         <div type="list_of_paintings">
+            <pb facs="tcp:30967:5"/>
+            <pb facs="tcp:30967:6"/>
+            <pb n="1" facs="tcp:30967:6" rendition="simple:additions"/>
+            <head>A Continuation of the Auction of Paintings, at the <hi>Marine</hi> Coffee-Houſe in <hi>Birchin Lane,</hi> will be ſold on <hi>Thurſday,</hi> the 11th of this Inſtant <hi>September,</hi> at Three of the Clock in the Afternoon.</head>
+            <list>
+               <item>1 A Droll-piece, curiouſly painted by <hi>Meyer</hi>
+               </item>
+               <item>2 A Houſe of Converſation, by the ſame maſter</item>
+               <item>3 A Gun-powder Plot, by <hi>Meyer</hi>
+               </item>
+               <item>4 A Begger, by <hi>Croyer</hi>
+               </item>
+               <item>5 a Woman Quaker, by <hi>Haemskirk</hi>
+               </item>
+               <item>6 <hi>Lucretia</hi> in ſmall, curiouſly painted</item>
+               <item>7 A Winter Proſpect, finely painted</item>
+               <item>8 King <hi>William,</hi> curiouſly painted</item>
+               <item>9 Queen <hi>Mary,</hi> by the ſame hand</item>
+               <item>10 A Froſt-piece, neatly painted</item>
+               <item>11 A piece of Sea Gods, by <hi>Van Oast</hi>
+               </item>
+               <item>12 A Sea-Port in <hi>Zeland,</hi> finely drawn on board, in black and white</item>
+               <item>13 A large Original Landskip, finely painted by <hi>Van Deiſt</hi>
+               </item>
+               <item>14 General <hi>Monk,</hi> a half length, well painted, by a great maſter</item>
+               <item>15 King <hi>Charles</hi> Il a half length, curiouſly painted</item>
+               <item>16 A Original Landskip, painted by <hi>Roſſe</hi>
+               </item>
+               <item>17 A large <hi>Mary Magdalen,</hi> curiouſly painted by an Italian</item>
+               <item>18 King <hi>William,</hi> in ſmall</item>
+               <item>19 A Landskip fit for a Chimney-piece</item>
+               <item>20 The Hiſtory of Q. <hi>Elioner</hi> and Fair <hi>Roſamond,</hi> finely sketch'd, by a great maſter</item>
+               <item>21 Prudence, finely painted by <hi>De Ryck</hi>
+               </item>
+               <item>22 Sir <hi>Arthur Haſlerig</hi> (one of the Parliaments Collonels) a half length, by <hi>Dobſon</hi>
+               </item>
+               <item>23 A Souldier, an Original, curiouſly painted</item>
+               <item>24 A <hi>Dutchwoman,</hi> an Original, well painted</item>
+               <item>25 A Moon, curiouſly painted by a great maſter</item>
+               <item>26 Three Grey-hounds finely painted</item>
+               <item>27 A Fruit-piece, by a Dutch maſter</item>
+               <item>28 A Bitch and Puppies, after <hi>Hondius</hi>
+               </item>
+               <item>29 An Original Landskip with Gypſies, in an Ebony frame</item>
+               <item>30 The old Duke of <hi>Buckingham,</hi> a whole length, finely painted</item>
+               <item>31 A Landskip with a Caſtle, well painted</item>
+               <item>32 A Mountebank</item>
+               <item>33 <hi>De Wits</hi> larg. &amp; beſt Map of the World, finely col. with gilded Ledg. &amp; Rowlers</item>
+               <item>34 King <hi>Charles</hi> the Second in little, finely painted</item>
+               <item>35 A ſmall Landskip</item>
+               <item>36 a ſmall Fruit-piece, finely painted on copper</item>
+               <item>37 Death's Head and Hour-glaſs</item>
+               <item>38 a Lyon and Tyger, an Original, by <hi>Hondius</hi>
+               </item>
+               <item>39 a Stag drinking at a Fountain, by the ſame maſter</item>
+               <item>40 a large Grace-piece, an Original, by Old <hi>Haemskirk</hi>
+               </item>
+               <item>41 a Singing-piece, curiouſly painted by the ſame hand</item>
+               <item>42 a Sea-piece of <hi>Van Deiſt,</hi> in a leather-work frame</item>
+               <item>43 <hi>Bacchus</hi> and <hi>Ariadne,</hi> an Original, by <hi>Madena</hi>
+               </item>
+               <item>44 a VVinter-piece curiouſly painted by <hi>Caſtro</hi>
+               </item>
+               <item>45 a Fruit-piece, a 3 quarter cloth, finely painted by <hi>Bogdan,</hi> in a rich carv'd frame</item>
+               <item>46 an Original Landskip, with the Figures by a Diſciple of <hi>Lawr ſſe</hi>
+               </item>
+               <item>
+                  <pb n="2" facs="tcp:30967:7"/>
+47 an Original piece of Still-life, with a Crab, by a great maſter</item>
+               <item>48 <hi>Rotterdam</hi> in <hi>Holland,</hi> finely painted in black and white</item>
+               <item>49 an Original piece of Beaſts, by a great maſter, in an Ebony frame</item>
+               <item>50 an Original piece of a Fleet of Ships at Sea, with their Tenders, finely painted by <hi>Zeeman,</hi> the great Ship Painter of his time</item>
+               <item>51 a ſmall piece, finely painted by <hi>Frank</hi>
+               </item>
+               <item>52 a Quaker, by <hi>Haemskirk</hi>
+               </item>
+               <item>53 <hi>Europe</hi> finely painted</item>
+               <item>54 <hi>Ariaedne</hi> aſleep</item>
+               <item>55 Summer, curiouſly painted by an Italian</item>
+               <item>56 a dead Dog, an Original, well painted</item>
+               <item>57 a piece of Fowl, after <hi>Griffiere</hi>
+               </item>
+               <item>58 a dead Stag, finely painted after <hi>Snyder</hi>
+               </item>
+               <item>59 a Swan and Dog, curiouſly painted by <hi>Hondius</hi>
+               </item>
+               <item>60 a Parrot and a Mag pye, by the ſame maſter</item>
+               <item>61 Two ſmoakers by <hi>Haemskirk</hi>
+               </item>
+               <item>62 a Converſation, by the ſame hand</item>
+               <item>63 a Fryer, by <hi>Haemskirk</hi>
+               </item>
+               <item>64 King <hi>William</hi> in ſmall, finely painted</item>
+               <item>65 A Houſe of Converſation, painted by a <hi>Dutch</hi> maſter</item>
+               <item>66 A curious orig. Draw. of our Lady's Church at <hi>Antwerp</hi> by <hi>Neifs</hi>
+               </item>
+               <item>67 A piece of Still-life by <hi>Bealing</hi>
+               </item>
+               <item>68 A Landskip with Cattle, an original by <hi>Van Diſt</hi>
+               </item>
+               <item>69 A Landskip by <hi>Vanele,</hi> the Figures by <hi>Wyck</hi>
+               </item>
+               <item>70 A Fire-piece by the ſame hand, the figures by <hi>Haemskirk</hi>
+               </item>
+               <item>71 A Landskip after <hi>Edima</hi>
+               </item>
+               <item>72 Queen <hi>Mary.</hi> in an oval frame</item>
+               <item>73 A Landskip finely painted by Mr. <hi>Chriſtian</hi>
+               </item>
+               <item>74 an original piece of flowers by <hi>Montingo</hi>
+               </item>
+               <item>75 an Amorous piece by <hi>Haemskirk</hi>
+               </item>
+               <item>76 a Stag-hunting, curiouſly painted by <hi>Hondius</hi>
+               </item>
+               <item>77 a Sea Triumph, by a Dutch maſter</item>
+               <item>78 a Mair-Maid well painted</item>
+               <item>79 a <hi>Bacchus</hi> ſporting</item>
+               <item>80 Queen <hi>Mary</hi> finely painted</item>
+               <item>81 a large Draught of <hi>New-found-land,</hi> on cloth, curiouſly colour'd</item>
+               <item>82 a large Landskip with a Sea-Port, and Marſhy Land about it, finely painted</item>
+               <item>83 a Lady from the life, a half length, curiouſly painted by <hi>De Ryck,</hi> in a rich car<g ref="char:EOLhyphen"/>ved frame</item>
+               <item>84 The City of <hi>Jeruſalem,</hi> with deſcript. about it, on cloth colour'd, in a black frame</item>
+               <item>85 King <hi>William,</hi> a whole length, in little, finely painted</item>
+               <item>86 Queen <hi>Mary,</hi> a whole length, by the ſame hand</item>
+               <item>87 <hi>Pandora,</hi> on copper, by <hi>Van Heyden</hi>
+               </item>
+               <item>88 a half length Fruit-piece, an Original, by <hi>Varelſt</hi>
+               </item>
+               <item>89 a ſmall Droll-piece, well painted</item>
+               <item>90 a Sea-piece by <hi>Vande Velde</hi>
+               </item>
+               <item>91 <hi>Diana</hi> and <hi>Caliſta,</hi> by a Dutch maſter</item>
+               <item>92 a Calm by <hi>Vande Velde</hi>
+               </item>
+               <item>93 a large Original Hunting-piece, by <hi>Castile</hi>
+               </item>
+               <item>94 The Earl of <hi>Doncaſter,</hi> the late Duke of <hi>Monmouth</hi>'s Eldeſt Son, a half length finely painted after <hi>Kneller</hi>
+               </item>
+               <item>95 a large Landskip, well painted, by a Dutch maſter</item>
+               <item>
+                  <pb n="3" facs="tcp:30967:7"/>
+96 an Orig. piece of <hi>Abraham</hi> and <hi>Hager,</hi> on board, curiouſly painted</item>
+               <item>97 The old Counteſs of <hi>Richmond,</hi> in Q. <hi>Elizabeths</hi> time, painted from the life, by <hi>Cornelius Johnſon</hi>
+               </item>
+               <item>98 The old Earl of <hi>Pembrook,</hi> on copper, finely painted by the ſame maſter</item>
+               <item>99 Singers, by old <hi>Haemskirk</hi>
+               </item>
+               <item>100 an Obſcene-piece, by <hi>Haemskirk</hi>
+               </item>
+               <item>101 The Element of Fire, by <hi>Hondius</hi>
+               </item>
+               <item>102 a Deal board, with Father <hi>Petres</hi> Teſtament, finely painted</item>
+               <item>103 a Hare with a Dogs Head, well painted</item>
+               <item>104 a Smoaker, by Old <hi>Haemskirk</hi>
+               </item>
+               <item>105 a Droll-piece, by the ſame maſter</item>
+               <item>106 a Fryer, by <hi>Haemskirk</hi>
+               </item>
+               <item>107 Two Smoakers by Ditto</item>
+               <item>108 <hi>Neptune</hi> and <hi>Coronis,</hi> by a Dutch maſter</item>
+               <item>109 a ſmall piece of Fiſh</item>
+               <item>110 a ſmall Fruit-piece, an Original, by <hi>Bogdan</hi>
+               </item>
+               <item>111 The Duke of <hi>Beauford,</hi> finely painted by a great maſter</item>
+               <item>112 a Flower-piece well painted</item>
+               <item>113 Twelve of the principal Cities of <hi>Europe,</hi> on cloth colour'd, in a black frame</item>
+               <item>114 a Flower-piece finely paint. by that great maſter <hi>Bogdan,</hi> in a rich carv'd frame</item>
+               <item>115 a Lady, curiouſly painted by an Italian maſter</item>
+               <item>116 an Orig. Family-piece, the VVoman giving her Child Suck, finely painted</item>
+               <item>117 a <hi>Roman</hi> Ruine Curiouſly painted</item>
+               <item>118 an Old Dog, by <hi>Hondius</hi>
+               </item>
+               <item>119 a large Landskip, curiouſly painted by a Dutch maſter</item>
+               <item>120 <hi>Hercules</hi> between Good and Evil, finely painted</item>
+               <item>121 a Basket of Flowers curiouſly painted, by <hi>Montingo,</hi> in a rich carved frame</item>
+               <item>122 an Italian Landskip, an Original, by <hi>Pazero</hi>
+               </item>
+               <item>123 King <hi>William,</hi> in an Oval frame</item>
+               <item>124 The Element of Fire, by <hi>Hondius</hi>
+               </item>
+               <item>125 Earth, by the ſame maſter</item>
+               <item>126 a Partridge hanging</item>
+               <item>127 a Fruit piece with a Bottle</item>
+               <item>128 — another Fruit piece with a Rummer</item>
+               <item>129 The late Duke of <hi>Monmouth</hi>'s head in Minature</item>
+               <item>130 a naked <hi>Cleopatra,</hi> finely painted by an Italian maſter</item>
+               <item>131 <hi>Flora,</hi> curiouſly painted by <hi>De Ryck</hi>
+               </item>
+               <item>132 The two Philoſophers, <hi>Democritus</hi> and <hi>Heraclitus,</hi> by <hi>Haemskirk</hi>
+               </item>
+               <item>133 a curious Sea-piece, an Orig. by <hi>Percellus,</hi> in a black oval frame</item>
+               <item>134 an Original Landskip, finely painted by <hi>Oſtade</hi>
+               </item>
+               <item>135 Duke <hi>Lauderdales</hi> Head in Minature</item>
+               <item>136 The Duke of <hi>York</hi> in his Robes, finely painted</item>
+               <item>137 a proſpect of <hi>Shierneſs,</hi> with a Yatch, an Orig. by <hi>Sailmaker</hi>
+               </item>
+               <item>138 a Boy and Girl eating Milk, finely painted by an Italian</item>
+               <item>139 a ſmall piece of Still-life, with a Jugg, by a Dutch maſter</item>
+               <item>140 Mr. <hi>Stenier</hi>'s Picture on copper, curiouſly painted by <hi>De Ryck</hi>
+               </item>
+               <item>141 <hi>Jupiter</hi> and <hi>Caliſta,</hi> by <hi>Madena</hi>
+               </item>
+               <item>142 a piece of Calves neatly painted</item>
+               <item>143 King <hi>William</hi> finely painted by a Gentlewoman</item>
+               <item>144 Queen <hi>Mary</hi> by the ſame hand</item>
+               <item>145 a Landskip with Goats, on copper, an Orig. in an Oval frame</item>
+               <item>146 a Sea-ſtorm by <hi>Percellus</hi>
+               </item>
+               <item>
+                  <pb n="4" facs="tcp:30967:8"/>
+147 a Dutch Family, where the VVoman is Nurſing the Child, by <hi>Haemskirk</hi>
+               </item>
+               <item>148 a Shepherd and Shepherdeſs, an Original, by <hi>Lamence</hi>
+               </item>
+               <item>149 an Original Sketch of <hi>Paris,</hi> and the three Goddeſſes, in a gold frame</item>
+               <item>150 Counteſs of <hi>Richmond</hi> in Q. <hi>Eliz</hi> days, a whole length, from the life, by C. <hi>Johnſon</hi>
+               </item>
+               <item>151 <hi>Adam</hi> and <hi>Eve,</hi> an Original, by <hi>Golizius</hi>
+               </item>
+               <item>152 a Feſtoon of Fruit, well painted</item>
+               <item>153 a ſmall fruit-piece, an Original, by <hi>Bogdan</hi>
+               </item>
+               <item>154 a large Original Landskip, finely painted, by <hi>Griffiere</hi>
+               </item>
+               <item>155 K. <hi>James,</hi> a half Length, curiouſly painted by <hi>Dixon,</hi> in a rich carv'd frame</item>
+               <item>156 —his Queen, a half length, by the ſame hand</item>
+               <item>157 a Gentlewoman, a whole poſture, painted from the life, by <hi>De Ryck</hi>
+               </item>
+               <item>158 a curious Original Landskip, by a great maſter, in an Oval frame</item>
+               <item>159 a curious Original Sea port in <hi>Holland,</hi> with a Yatch and Shipping, in a rich frame</item>
+               <item>160 a Monky, and an Owl with her young ones, curiouſly painted by <hi>Hondius</hi>
+               </item>
+               <item>161 a Gooſe and Dog, by the ſame maſter</item>
+               <item>162 a Stag-hunting, on a three quarter cloth, curiouſly painted by <hi>Hondius</hi>
+               </item>
+               <item>163 a Dutch School-maſter amongſt his Schollers, finely painted by old <hi>Haemskirk</hi>
+               </item>
+               <item>164 a Droll-piece, finely painted by <hi>Meyer</hi>
+               </item>
+               <item>165 an old mans head, an Original, by <hi>Oſtade</hi>
+               </item>
+               <item>166 a piece of Dogs, an Original, by <hi>Van Bouge</hi>
+               </item>
+               <item>167 a Sea-ſtorm curiouſly painted by <hi>Percellus</hi>
+               </item>
+               <item>168 <hi>Flora</hi> curiouſly painted by an Italian, in a Gold frame</item>
+               <item>169 a ſmall Landskip, neatly painted, in a black Ivory frame</item>
+               <item>170 — another, by the ſame maſter</item>
+               <item>171 a large piece of Queen <hi>Dido</hi>
+               </item>
+               <item>172 a Hunting of the Heron, by <hi>Hondius</hi>
+               </item>
+               <item>173 The Element of Water, by the ſame maſter</item>
+               <item>174 a Snick and Snee between <hi>Dutchmen,</hi> by old <hi>Haemskirk</hi>
+               </item>
+               <item>175 a curious Hiſtorical sketch<g ref="char:punc">▪</g> finely done by <hi>De Ryck</hi>
+               </item>
+               <item>176 K. <hi>Henry</hi> VII. painted by a great maſter, in a black ebony frame</item>
+               <item>177 an Original Droll piece, finely painted by <hi>Teniers</hi>
+               </item>
+               <item>178 King <hi>William</hi> finely painted</item>
+               <item>179 an Ecce Homo, painted by an Italian</item>
+               <item>180 King <hi>Henry</hi> the Eighth curiouſly painted by a great maſter</item>
+               <item>181 Two <hi>Sybils</hi> heads; moſt curiouſly painted by a great maſter</item>
+               <item>182 Two more by the ſame hand</item>
+               <item>183 a half length Landskip, with a Confort of Birds, curiouſly painted by <hi>Hondius</hi>
+               </item>
+               <item>184 <abbr>Eſq</abbr> 
+                  <hi>Nichols,</hi> Secretary to K. <hi>Charles</hi> l. a half length paint. from the life, by <hi>Dobſon</hi>
+               </item>
+               <item>185 a large Original Sea port, finely painted by <hi>Vande Velde</hi>
+               </item>
+               <item>186 The City of <hi>Lond.</hi> and <hi>Weſtm.</hi> on cloth, curiouſly coloured with Ledges &amp; Rowlers</item>
+               <item>187 a Man playing on a Violin, curiouſly painted</item>
+               <item>188 a Woman playing on a Citern, by the ſame hand</item>
+               <item>189 a proſpect of the great Froſt from <hi>Temple-Bar</hi> to <hi>London-Bridge,</hi> an Orig. by <hi>Hondius</hi>
+               </item>
+               <item>190 a large Original piece of Cookery, finely painted</item>
+               <item>191 The Hiſtory of Queen <hi>Dido.</hi> and <hi>Aeneas,</hi> curiouſly painted by a great maſter</item>
+               <item>192 <hi>Blomaert</hi> the Painters head, finely done in black and white</item>
+               <item>193 a Dog well painted by a Dutch maſter</item>
+               <item>194 <hi>Wat Tyler<g ref="char:punc">▪</g>
+                  </hi> (the Arch Rebel) an Orlginal, well painted</item>
+               <item>195 a Bawdy-houſe, curiouſly painted by a Dutch maſter</item>
+               <item>196 a large piece of a Woman <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hing her ſelf, painted from the life in a rich frame</item>
+               <item>197 a large Sea-piece, by <hi>Peters</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:30967:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
